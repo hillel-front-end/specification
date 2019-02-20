@@ -4,7 +4,6 @@
 + https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide/Functions
 + https://myrusakov.ru/javascript-closures.html
 
-
 # Практика
 
 1) Функция должна вернуть массив из центральных элементов переданных массивов.

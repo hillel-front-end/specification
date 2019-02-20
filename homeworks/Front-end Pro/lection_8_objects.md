@@ -1,11 +1,8 @@
 # Изучить материал
-
 * https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide/Working_with_Objects
 * https://learn.javascript.ru/object
 * https://learn.javascript.ru/object-for-in
 * https://learn.javascript.ru/object-reference
-
-
 
 # Практика
 

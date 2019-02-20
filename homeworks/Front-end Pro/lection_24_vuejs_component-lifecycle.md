@@ -1,8 +1,9 @@
 # Изучить материал
-    + https://ru.vuejs.org/v2/guide/components.html
-    + https://ru.vuejs.org/v2/guide/components-custom-events.html
-    + https://ru.vuejs.org/v2/guide/components-props.html
-    + https://ru.vuejs.org/v2/guide/transitions.html
++ https://ru.vuejs.org/v2/guide/components.html
++ https://ru.vuejs.org/v2/guide/components-custom-events.html
++ https://ru.vuejs.org/v2/guide/components-props.html
++ https://ru.vuejs.org/v2/guide/transitions.html
+
 # Практика
     
 # Лекция

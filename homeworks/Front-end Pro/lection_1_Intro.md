@@ -1,12 +1,10 @@
 # Изучить материал
-
 * http://learn.javascript.ru/uibasic
 * http://learn.javascript.ru/document-write
 * http://learn.javascript.ru/first-steps
 * http://learn.javascript.ru/external-script
 * http://learn.javascript.ru/variables
 * https://guides.github.com/features/mastering-markdown/
-
 
 # Практика
 

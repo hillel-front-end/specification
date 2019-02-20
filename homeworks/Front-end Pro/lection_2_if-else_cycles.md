@@ -1,10 +1,8 @@
 # Изучить материал
-
 * https://learn.javascript.ru/ifelse
 * https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Statements/if...else
 * https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Statements/for
 * https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Statements/do...while
-
 
 # Практика
 

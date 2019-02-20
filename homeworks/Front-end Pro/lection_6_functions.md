@@ -1,5 +1,4 @@
 # Изучить материал
-
 * http://learn.javascript.ru/function-declaration-expression
 * https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide/Functions
 * https://myrusakov.ru/javascript-closures.html

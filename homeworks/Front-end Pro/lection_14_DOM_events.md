@@ -1,6 +1,5 @@
 # Изучить материал
-    + https://learn.javascript.ru/events-change
-
++ https://learn.javascript.ru/events-change
 
 # Практика
 

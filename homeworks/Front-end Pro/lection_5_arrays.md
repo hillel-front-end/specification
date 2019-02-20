@@ -1,9 +1,7 @@
 # Изучить материал
-
 * https://learn.javascript.ru/array
 * https://learn.javascript.ru/array-methods
 * https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array
-
 
 # Практика
 

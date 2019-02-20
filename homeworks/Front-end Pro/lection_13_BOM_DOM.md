@@ -1,5 +1,4 @@
 # Изучить материал
-
 + https://learn.javascript.ru/browser-environment
 + https://learn.javascript.ru/dom-nodes
 + https://learn.javascript.ru/dom-console

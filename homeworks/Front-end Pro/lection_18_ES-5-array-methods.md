@@ -1,5 +1,4 @@
 # Изучить материал
-
 + https://learn.javascript.ru/array-iteration
 
 # Практика

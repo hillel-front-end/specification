@@ -40,23 +40,19 @@
 18. Intro JS
 19. if-else, cycles
 20. arrays
-21. arrays practice
-22. functions
-23. functions practice
-24. objects overview
 
 ## Front-end Pro
 
-1. functions
-2. objects, `this` keyword
+1. arrays, if-else, cycles
+2. functions
 3. function scope, hoisting
-4. git
+4. objects, `this` keyword
 5. OOP
-6. ES6 basic - classes, block-scoped variables
-7. BOM - window, location, screen, history. DOM - document, elements, selectors, inline styles
-8. DOM events - mouse, form. DOM Level 1-3
-9. DOM events - keyboard. Event bubbling and capturing
-10. DOM practice
+6. git
+7. ES6 basic - classes, block-scoped variables
+8. BOM - window, location, screen, history. DOM - document, elements, selectors, inline styles
+9. DOM events - mouse, form. DOM Level 1-3
+10. DOM events - keyboard. Event bubbling and capturing
 11. ES6 - template literals, arrow functions, destructuring
 12. ES6 - promises, generators
 13. Web Storage, JSON, XHR - basics
@@ -94,3 +90,7 @@
 10. VueJS - SPA, Vuex - basics
 11. Vuex, VueJS SSR - basics
 12. VueJS SSR, Nuxt.js - overview
+13. Practice SPA
+14. Practice SPA
+15. Practice SPA
+16. Practice SPA

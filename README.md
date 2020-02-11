@@ -94,3 +94,60 @@
 14. Practice SPA
 15. Practice SPA
 16. Practice SPA
+
+---
+
+## Front-end Basic Online
+1. html intro
+2. html semantic, block tags, anchors
+3. css intro, selectors
+4. box model
+5. background, overflow, opacity
+6. float, position
+7. css pseudo-class, visibility, example layout
+8. flexbox, example layout
+9. grids, example layout
+10. sass, variables, mixins
+11. sass patterns, extends, if-else
+12. sass/scss tricks, example application structure
+13. media queries
+14. html5 tags overview
+15. transform, keyframes, box-shadow
+16. transition
+17. toolkit - bootstrap 
+18. toolkit - material icons, material web overview 
+19. bootstrap example layout
+20. Buffer
+
+## Front-end Pro Online
+
+1. basics, browser, how to run code
+2. variable, if-else, logic
+3. if-else more, cycles
+4. cycles more, arrays
+5. arrays, two-dimensional arrays
+6. objects - basics
+7. function - basics
+8. function - scope, higher-order function
+9. objects + functions, this
+10. Lexical environment
+11. ES6 basics - block-scoped variables, arrays functions
+12. ES5 array methods
+13. String, ES6 strings
+14. OOP - basics
+15. OOP - functional, prototype-based
+16. ES6 OOP
+17. BOM - window, location, screen, history. DOM - document, elements, selectors, inline styles
+18. DOM events - mouse, form. DOM Level 1-3
+19. DOM events - keyboard.
+20. Event bubbling and capturing 
+21. ES6 - destructuring, generators
+22. ES6 - promises
+23. Web Storage, JSON, XHR - basics
+24. NodeJS server, XHR - basic
+25. Descriptors, get/set
+26. Modules, ES6 Modules, Single File Components
+27. Gulp, Webpack - basics 
+28. NodeJS API server, mock server
+29. NodeJS API server, mock server
+30. RegExp

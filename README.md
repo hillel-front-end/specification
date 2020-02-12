@@ -128,7 +128,7 @@
 5. arrays, two-dimensional arrays
 6. objects - basics
 7. function - basics
-8. function - scope, higher-order function
+8. function - scope, higher-order function, closure
 9. objects + functions, this
 10. Lexical environment
 11. ES6 basics - block-scoped variables, arrays functions
@@ -141,8 +141,8 @@
 18. DOM events - mouse, form. DOM Level 1-3
 19. DOM events - keyboard.
 20. Event bubbling and capturing 
-21. ES6 - destructuring, generators
-22. ES6 - promises
+21. toolkit - jQuery
+22. ES6 - destructuring, generators, promises
 23. Web Storage, JSON, XHR - basics
 24. NodeJS server, XHR - basic
 25. Descriptors, get/set

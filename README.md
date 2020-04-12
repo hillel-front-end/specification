@@ -122,8 +122,8 @@
 ## Front-end Pro Online
 
 1. basics, browser, how to run code
-2. variable, if-else, logic
-3. if-else more, cycles
+2. variable, if-else, logic, cycles
+3. if-else more, arrays
 4. cycles more, arrays
 5. arrays, two-dimensional arrays
 6. objects - basics

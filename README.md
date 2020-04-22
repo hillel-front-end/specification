@@ -106,9 +106,9 @@
 6. float, position
 7. css pseudo-class, visibility, example layout
 8. flexbox, example layout
-9. grids, example layout
-10. sass, variables, mixins
-11. sass patterns, extends, if-else
+9. sass, variables, mixins
+10. sass patterns, extends, if-else
+11. grids, example layout
 12. sass/scss tricks, example application structure
 13. media queries
 14. html5 tags overview
@@ -124,10 +124,10 @@
 1. basics, browser, how to run code
 2. variable, if-else, logic, cycles
 3. if-else more, arrays
-4. cycles more, arrays
-5. arrays, two-dimensional arrays
-6. objects - basics
-7. function - basics
+4. arrays, two-dimensional arrays
+5. objects - basics
+6. function - basics
+7. function - features and tricks
 8. function - scope, higher-order function, closure
 9. objects + functions, this
 10. Lexical environment

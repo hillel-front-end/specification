@@ -108,15 +108,15 @@
 8. flexbox, example layout
 9. sass, variables, mixins
 10. sass patterns, extends, if-else
-11. grids, example layout
+11. media queries, html5
 12. sass/scss tricks, example application structure
-13. media queries
+13. grids, example layout
 14. html5 tags overview
 15. transform, keyframes, box-shadow
-16. transition
-17. toolkit - bootstrap 
-18. toolkit - material icons, material web overview 
-19. bootstrap example layout
+16. toolkit - bootstrap
+17. Practice + Figma
+18. git
+19. Buffer
 20. Buffer
 
 ## Front-end Pro Online

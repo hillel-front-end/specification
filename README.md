@@ -162,4 +162,4 @@
 27. Gulp, Webpack - basics 
 28. NodeJS API server, mock server
 29. NodeJS API server, mock server
-30. RegExp
+30. React
